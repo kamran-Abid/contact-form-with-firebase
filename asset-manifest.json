@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/contact-form-with-firebase/static/css/main.0661b912.css",
+    "main.js": "/contact-form-with-firebase/static/js/main.22de8ccd.js",
+    "static/js/787.e2b9f9e1.chunk.js": "/contact-form-with-firebase/static/js/787.e2b9f9e1.chunk.js",
+    "index.html": "/contact-form-with-firebase/index.html",
+    "main.0661b912.css.map": "/contact-form-with-firebase/static/css/main.0661b912.css.map",
+    "main.22de8ccd.js.map": "/contact-form-with-firebase/static/js/main.22de8ccd.js.map",
+    "787.e2b9f9e1.chunk.js.map": "/contact-form-with-firebase/static/js/787.e2b9f9e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0661b912.css",
+    "static/js/main.22de8ccd.js"
+  ]
+}
